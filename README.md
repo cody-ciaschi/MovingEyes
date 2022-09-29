@@ -1,6 +1,6 @@
 # Moving Eyes
 <img src= "oneeye.png" width='300'/>
-This is a small browser animation that has two eyes that follow your mouse around the screen.
+This is a small browser animation that has two eyes that follow your mouse around the screen. Improvements will be coming soon!
 
 ## How to Run
 To use this:
@@ -8,6 +8,9 @@ To use this:
 - Open your file explorer and navigate to the directory
 - Open your favorite browser and click-and-drag the eyes.html file into your browser.
 - Have Fun!
+
+## Future Improvements
+I would like to add a button to automatically add more eyes. I might also create a dropdown to load different profiles with ones you can save.
 
 ## MIT License
 Copyright (c) 2022 Cody Ciaschi
